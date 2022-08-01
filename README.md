@@ -1,2 +1,2 @@
 # HelloWorld
-Practice Rep w aug 2022 version of g desktop
+Practice Repo with august 2022 version of github desktop
